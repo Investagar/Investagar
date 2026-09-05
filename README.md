@@ -1,9 +1,4 @@
-<table>
-<tr>
-<td valign="top">
 <img src="ascii.png" alt="Tyler" width="240">
-</td>
-<td valign="top">
 
 <pre>
 investagar
@@ -30,7 +25,3 @@ Portfolio .............. https://tylerkierzkowski.dev
 GitHub Stats
 Commits ................ 324
 </pre>
-
-</td>
-</tr>
-</table>
